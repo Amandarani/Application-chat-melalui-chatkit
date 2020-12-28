@@ -4,7 +4,7 @@ import MessageList from "./components/message-list";
 import SendMessageForm from "./components/send-message-form";
 import RoomList from "./components/room-list";
 import NewRoomForm from "./components/new-room-form";
-
+import required from (Filejson);
 import { tokenUrl, instanceLocator } from "./config";
 
 class App extends React.Component {
